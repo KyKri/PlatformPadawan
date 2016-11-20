@@ -1,0 +1,17 @@
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/obj/Debug/Assembly-CSharp.dll
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/UnityEngine.dll
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/UnityEditor.dll
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/Mono.Cecil.dll
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/Unity.DataContract.dll
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/kylekrick/Documents/OneDrive/Documents/CS583/2dgame/StarWars/Temp/bin/Debug/Mono.Cecil.Mdb.dll
